@@ -83,6 +83,10 @@
         3 identical numbers - return 5 times more
         777 - jackpot! Return all the money from the machine    
     button for automatic test
+   
+#### Angular 4
+
+[Shopping app](https://github.com/willfulAversion/angularNinja/tree/master/src)
 
 ## Other
 - try to write on [Node.js](https://nodejs.org/en/), now I can run simple web-server
