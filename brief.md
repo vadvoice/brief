@@ -84,9 +84,9 @@
         777 - jackpot! Return all the money from the machine    
     button for automatic test
    
-#### Angular 4
+#### JavaScript frameworks:
 
-[Shopping app](https://github.com/willfulAversion/angularNinja/tree/master/src)
+[Shopping app(Angular 4)](https://github.com/willfulAversion/angularNinja/tree/master/src)
 
 ## Other
 - try to write on [Node.js](https://nodejs.org/en/), now I can run simple web-server
@@ -94,6 +94,7 @@
 
 ## Plans for near future:
 - Dive deeper in to ECMAScript6 and Node.js
+- Mastering Ionic
 - I am interested in **Angula 4** and [Vue](https://vuejs.org/)
 - To learn more about: SVG, Canvas, WebGL and CSS animation
 - To learn more about networks and explore how the google maps work
